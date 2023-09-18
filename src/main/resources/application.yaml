@@ -1,0 +1,7 @@
+
+spring:
+  application-name: spring-boot-rest-service
+server:
+  port: 8090
+
+
